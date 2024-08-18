@@ -7,9 +7,9 @@ const containerStyle = {
   gap: "16px",
 };
 
-// const starContainerStyle = {
-//   display: "flex",
-// };
+const starContainerStyle = {
+  display: "flex",
+};
 
 StarRating.propTypes = {
   maxRating: PropTypes.number.isRequired,
